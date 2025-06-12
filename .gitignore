@@ -1,4 +1,4 @@
-/dags/data
+/dags/data/*
 /logs
 *.env
 *__pycache__

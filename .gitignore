@@ -1,4 +1,4 @@
-/dags/data/*
+/dags/data/*steam_top*
 /logs
 *.env
 *__pycache__
